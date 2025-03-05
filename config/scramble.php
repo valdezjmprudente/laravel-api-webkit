@@ -29,7 +29,7 @@ return [
         /*
          * Description rendered on the home page of the API documentation (`/docs/api`).
          */
-        'description' => '',
+        'description' => 'A comprehensive web toolkit designed for the seamless development and documentation of APIs within the Laravel framework. This solution provides an intuitive interface for managing, documenting, and interacting with your API endpoints.',
     ],
 
     /*
@@ -39,7 +39,7 @@ return [
         /*
          * Define the title of the documentation's website. App name is used when this config is `null`.
          */
-        'title' => null,
+        'title' => "LARAVEL API WEBKIT",
 
         /*
          * Define the theme of the documentation. Available options are `light` and `dark`.
@@ -54,7 +54,7 @@ return [
         /*
          * URL to an image that displays as a small square logo next to the title, above the table of contents.
          */
-        'logo' => '',
+        'logo' => 'https://laravel.com/img/logomark.min.svg',
 
         /*
          * Use to fetch the credential policy for the Try It feature. Options are: omit, include (default), and same-origin
